@@ -1,0 +1,125 @@
+/* landing /first page */
+
+.landing-page { 
+    height: 100vh;
+    width: 100vw;
+    background-image: url('images/mj-dunk.jpg');
+    
+    
+    
+   
+}
+
+.mainTitle { 
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    height: 100vh;
+    font-size: 90px;
+    
+    
+}
+
+/* second page */
+
+.second-page { 
+    height: 100vh;
+    width: 100vw;
+    
+   
+}
+
+.imgContainer{
+    float:left;
+    padding: 90px;
+    margin-left: 130px;
+    border: 1px solid black;
+    /* background-color: blueviolet; */
+   
+
+  
+    
+}
+
+
+.imgContainer2{
+    float:left;
+    padding: 100px;
+  
+    
+}
+
+/* third page */
+
+.third-page { 
+    height: 100vh;
+    width: 100vw;
+    background-color: white;
+}
+
+/* yeezy1 */
+
+.img1 {
+    height:200px
+}
+
+/* fourth page */
+
+.fourth-page { 
+    height: 100vh;
+    width: 100vw;
+}
+
+.store-bio { 
+    height: 50vh;
+    width: 100vw;
+    background-color: gainsboro;
+}
+
+.second-half { 
+    height: 50vh;
+    width: 100vw;
+    background-color: black;
+}
+
+.div1 { 
+    text-align: center;
+    
+}
+
+.linkedinlogo { 
+    height: 100px;
+}
+
+.poop { 
+    text-align: center;
+}
+
+
+/* shoe pics */
+
+.pic1 { 
+    height: 500px;
+    width: auto;
+}
+
+.pic2 { 
+    height: 500px;
+    width: auto;
+}
+
+.pic3 { 
+    height: 500px;
+    width: auto;
+}
+
+.pic4 { 
+    height: 500px;
+    width: auto;
+}
+
+.pic5 { 
+    height: 500px;
+    width: auto;
+}
+
