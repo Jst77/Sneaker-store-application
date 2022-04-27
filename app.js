@@ -60,3 +60,11 @@ function addcart() {
 
 
 
+// check out 
+
+function checkOut1() {
+    window.open(href="checkOut1.html",'_blank');
+
+}
+
+// function checkOut1

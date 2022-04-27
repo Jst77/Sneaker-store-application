@@ -3,7 +3,12 @@
 .landing-page { 
     height: 100vh;
     width: 100vw;
-    background-image: url('images/mj-dunk.jpg');
+    background-image: url('images/chi.jpg');
+   
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+    
     
     
     
@@ -25,6 +30,7 @@
 .second-page { 
     height: 100vh;
     width: 100vw;
+    background-color: #F0F0F0;
     
    
 }
@@ -34,7 +40,7 @@
     padding: 90px;
     margin-left: 130px;
     border: 1px solid black;
-    /* background-color: blueviolet; */
+    background-color: white;
    
 
   
@@ -54,7 +60,9 @@
 .third-page { 
     height: 100vh;
     width: 100vw;
-    background-color: white;
+    /* background-color: white; */
+    background-color: #F0F0F0;
+
 }
 
 /* yeezy1 */
@@ -66,21 +74,22 @@
 /* fourth page */
 
 .fourth-page { 
-    height: 100vh;
+    height: 50vh;
     width: 100vw;
+   
 }
 
 .store-bio { 
     height: 50vh;
     width: 100vw;
-    background-color: gainsboro;
+    /* background-color: gainsboro; */
 }
 
-.second-half { 
+/* .second-half { 
     height: 50vh;
     width: 100vw;
     background-color: black;
-}
+} */
 
 .div1 { 
     text-align: center;
